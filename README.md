@@ -1,4 +1,5 @@
 # PakExplorer2.0
+Arma Reforger Pak Explorer - Updated!
 
 I am excited to announce the release of the updated version of our app! This new version comes with significant enhancements designed to improve your experience and productivity. Here are the key updates:
 
